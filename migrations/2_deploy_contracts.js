@@ -1,4 +1,5 @@
-const { artifacts } = require('truffle');
+/* eslint-disable no-undef */
+
 
 var SocialNetwork = artifacts.require("./SocialNetwork.sol");
 
